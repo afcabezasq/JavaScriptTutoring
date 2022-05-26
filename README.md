@@ -1,2 +1,2 @@
 # JavaScriptTutoring
-Tutoring activities for Floria
+Tutoring activities 
